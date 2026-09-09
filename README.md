@@ -38,12 +38,6 @@ CS student at UCD passionate about **systems programming**, **full-stack develop
 - Database integration
 - Responsive frontend development
 
-### 🎮 Game Development & AI
-- JavaFX game development
-- Pathfinding algorithms (Dijkstra)
-- AI decision-making systems
-- State space evaluation
-
 ---
 
 ## 🛠️ Tech Stack
