@@ -20,7 +20,7 @@ struct Student {
 };
 ```
 
-CS student at UCD passionate about **systems programming**, **full-stack development**, and **software architecture**. From TCP servers to JavaFX applications — I build things that work at every level of the stack.
+CS student at UCD passionate about **systems programming**, **full-stack development**, and **software architecture**. From TCP servers to Restful applications — I build things that work at every level of the stack.
 
 ---
 
@@ -37,23 +37,16 @@ CS student at UCD passionate about **systems programming**, **full-stack develop
 - REST API design & implementation
 - Database integration
 - Responsive frontend development
-
-### 🎮 Game Development & AI
-- JavaFX game development
-- Pathfinding algorithms (Dijkstra)
-- AI decision-making systems
-- State space evaluation
-
 ---
 
 ## 🛠️ Tech Stack
 
 | Domain | Technologies |
 |--------|--------------|
-| **Languages** | C, C++, Java, Python, TypeScript, JavaScript, HTML/CSS, SQL |
+| **Languages** | C, C++, Java, Python, TypeScript, JavaScript, HTML/CSS, SQL, Scala |
 | **Systems** | Linux, Unix, TCP/IP, Socket Programming, Client-Server Architecture |
-| **Frameworks** | Spring Boot, JavaFX |
-| **Tools** | Git, IntelliJ, VS Code, PyCharm, Docker, OBS Studio |
+| **Frameworks** | Spring Boot, JavaFX, React,  |
+| **Tools** | Git, IntelliJ, VS Code, PyCharm, Docker |
 | **Concepts** | OOP, Data Structures, Algorithms, Networking, Concurrency, Design Patterns |
 
 ---
