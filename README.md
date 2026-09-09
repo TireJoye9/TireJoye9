@@ -3,7 +3,7 @@
 > *Building things from the ground up, one byte at a time.*
 
 [![GitHub followers](https://img.shields.io/github/followers/TireJoye9?style=social)](https://github.com/TireJoye9)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tirearuwajoye)
 [![UCD](https://img.shields.io/badge/UCD-Computer_Science-red?style=flat&logo=academia)](https://ucd.ie)
 
 ---
@@ -12,59 +12,71 @@
 
 ```c
 struct Student {
-    char *name = "Tire";
+    char *name = "Tire Aruwajoye";
     char *university = "University College Dublin";
     char *field = "Computer Science";
-    char *passion = "Low-level systems programming";
+    char *year = "2028";
     char *motto = "Build from the ground up";
 };
 ```
 
-I'm a Computer Science student at University College Dublin with a deep fascination for **low-level systems programming**, **embedded development**, and **building things from scratch**. I believe the best way to understand technology is to peel back the layers and see how it works at the foundation.
+CS student at UCD passionate about **systems programming**, **full-stack development**, and **software architecture**. From TCP servers to JavaFX applications — I build things that work at every level of the stack.
 
 ---
 
 ## ⚡ What I Do
 
-### 🔧 Low-Level Systems
-- **C/C++** development with manual memory management
-- Understanding how computers *actually* work
-- Building CLI tools and utilities
-- Embedded systems and firmware exploration
+### 🔧 Systems & Backend
+- TCP socket programming in C
+- Multi-client server architecture
+- Process forking & concurrency
+- Unix/Linux systems programming
 
-### 🧠 CS Fundamentals
-- Data structures and algorithms
-- Operating systems concepts
-- Computer architecture
-- Network programming
+### 🖥️ Full Stack Development
+- Java Spring Boot applications
+- REST API design & implementation
+- Database integration
+- Responsive frontend development
+
+### 🎮 Game Development & AI
+- JavaFX game development
+- Pathfinding algorithms (Dijkstra)
+- AI decision-making systems
+- State space evaluation
+
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | C, C++, Java, Python, Rust (learning) |
-| **Systems** | Linux, Bash, Make, Git |
-| **Frontend** | JavaFX, HTML/CSS |
-| **Tools** | Vim, GCC, GDB, Valgrind, CMake |
-| **Concepts** | Pointers, Memory Management, Concurrency, Networking |
+| Domain | Technologies |
+|--------|--------------|
+| **Languages** | C, C++, Java, Python, TypeScript, JavaScript, HTML/CSS, SQL |
+| **Systems** | Linux, Unix, TCP/IP, Socket Programming, Client-Server Architecture |
+| **Frameworks** | Spring Boot, JavaFX |
+| **Tools** | Git, IntelliJ, VS Code, PyCharm, Docker, OBS Studio |
+| **Concepts** | OOP, Data Structures, Algorithms, Networking, Concurrency, Design Patterns |
 
 ---
 
-
-## 📫 Connect With Me
+## 📫 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-TireJoye9-181717?style=for-the-badge&logo=github)](https://github.com/TireJoye9)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@ucd.ie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tirearuwajoye)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:tirearuwajoye1@gmail.com)
 
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-C-blue?style=flat&logo=c" />
-  <img src="https://img.shields.io/badge/Code-C++-blue?style=flat&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Code-Java-red?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/Shell-Bash-green?style=flat&logo=gnu-bash" />
-  <img src="https://img.shields.io/badge/Editor-Vim-brightgreen?style=flat&logo=vim" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
 ---
