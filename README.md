@@ -20,7 +20,7 @@ struct Student {
 };
 ```
 
-CS student at UCD passionate about **systems programming**, **full-stack development**, and **software architecture**. From TCP servers to JavaFX applications — I build things that work at every level of the stack.
+CS student at UCD passionate about **systems programming**, **full-stack development**, and **software architecture**. From TCP servers to Full-Stack applications — I build things that work at every level of the stack.
 
 ---
 
