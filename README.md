@@ -2,7 +2,6 @@
 
 > *Building things from the ground up, one byte at a time.*
 
-[![GitHub followers](https://img.shields.io/github/followers/TireJoye9?style=social)](https://github.com/TireJoye9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tirearuwajoye)
 [![UCD](https://img.shields.io/badge/UCD-Computer_Science-red?style=flat&logo=academia)](https://ucd.ie)
 
